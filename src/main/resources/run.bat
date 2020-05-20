@@ -1,1 +1,1 @@
-java -classpath . KafkaProducerMain
+java -cp kafka-producer-1.0-SNAPSHOT.jar KafkaProduceMain
