@@ -1,1 +1,1 @@
-java -cp "../libmaven/*" com.jayden.kafka.swing.MainForm
+java -cp "../lib/*" com.jayden.kafka.swing.MainForm

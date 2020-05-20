@@ -1,1 +1,1 @@
-mvn  dependency:copy-dependencies -DoutputDirectory=libmaven
+mvn  dependency:copy-dependencies -DoutputDirectory=lib
