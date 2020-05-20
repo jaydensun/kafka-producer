@@ -1,1 +1,1 @@
-java -cp "./libmaven/*" KafkaProduceMain
+java -cp "./libmaven/*" com.jayden.kafka.swing.MainForm
